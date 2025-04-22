@@ -1,0 +1,18 @@
+Year,1.,2.,3.,4.,5.,6.,7.,8.,9.,10.
+2007,Google,General Electric,Microsoft,Coca-Cola,China Mobile,Marlboro,Walmart,Citigroup,IBM,Toyota
+2008,Google,General Electric,Microsoft,Coca-Cola,China Mobile,IBM,Apple Inc.,McDonald's,Nokia,Marlboro
+2009,Google,Microsoft,Coca-Cola,IBM,McDonald's,Apple Inc.,China Mobile,General Electric,Vodafone,Marlboro
+2010,Google,IBM,Apple Inc.,Microsoft,Coca-Cola,McDonald's,Marlboro,China Mobile,General Electric,Vodafone
+2011,Apple Inc.,Google,IBM,McDonald's,Microsoft,Coca-Cola,AT&T,Marlboro,China Mobile,General Electric
+2012,Apple Inc.,IBM,Google,McDonald's,Microsoft,Coca-Cola,Marlboro,AT&T,Verizon,China Mobile
+2013,Apple Inc.,Google,IBM,McDonald's,Coca-Cola,AT&T,Microsoft,Marlboro,Visa Inc.,China Mobile
+2014,Google,Apple Inc.,IBM,Microsoft,McDonald's,Coca-Cola,Visa Inc.,AT&T,Marlboro,Amazon
+2015,Apple Inc.,Google,Microsoft,IBM,Visa Inc.,AT&T,Verizon,Coca-Cola,McDonald's,Marlboro
+2016,Google,Apple Inc.,Microsoft,AT&T,Facebook,Visa Inc.,Amazon,Verizon,McDonald's,IBM
+2017,Google,Apple Inc.,Microsoft,Amazon,Facebook,AT&T,Visa Inc.,Tencent,IBM,McDonald's
+2018,Google,Apple Inc.,Amazon,Microsoft,Tencent,Facebook,Visa Inc.,McDonald's,Alibaba Group,AT&T
+2019,Amazon,Apple Inc.,Google,Microsoft,Visa Inc.,Facebook,Alibaba Group,Tencent,McDonald's,AT&T
+2020,Amazon,Apple Inc.,Microsoft,Google,Visa Inc.,Alibaba Group,Tencent,Facebook,McDonald's,Mastercard
+2021,Amazon,Apple Inc.,Google,Microsoft,Tencent,Facebook,Alibaba Group,Visa Inc.,McDonald's,Mastercard
+2022,Apple Inc.,Google,Amazon,Microsoft,Tencent,McDonald's,Visa Inc.,Facebook,Alibaba Group,Louis Vuitton
+2023,Apple Inc.,Google,Microsoft,Amazon,McDonald's,Visa Inc.,Tencent,Louis Vuitton,Mastercard,Coca-Cola
